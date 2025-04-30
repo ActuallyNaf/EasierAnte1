@@ -5,7 +5,7 @@
 --- MOD_DESCRIPTION: Removes eternal / perishable / rental jokers from shops and boosters packs on Ante 1 and below
 
 --- PRIORITY: -5
---- DISPLAY_NAME: Easier Antle 1
+--- DISPLAY_NAME: Easier Ante 1
 --- BADGE_COLOUR: d18017
 
 ----------------------------------------------
